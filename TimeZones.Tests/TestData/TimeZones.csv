@@ -1,21 +1,21 @@
-﻿Region (DON’T USE COMMA's),RegionTimeZoneId,BaseAEST,ForeignTime,Time,Date,DST,Timezone
-Hawaii,Hawaiian Standard Time,1/07/2022 2:26,30/06/2022 6:26,6:26,30/06/2022,,-10
-California,Pacific Standard Time,1/07/2022 2:26,30/06/2022 9:26,9:26,30/06/2022,Y,-8
-Mexico/Minnesota,Central Standard Time (Mexico),1/07/2022 2:26,30/06/2022 11:26,11:26,30/06/2022,Y,-6
-Florida,Eastern Standard Time,1/07/2022 2:26,30/06/2022 12:26,12:26,30/06/2022,Y,-5
-Rio De Janiro,Central Brazilian Standard Time,1/07/2022 2:26,30/06/2022 13:26,13:26,30/06/2022,N,-4
-Argentina,Argentina Standard Time,1/07/2022 2:26,30/06/2022 14:26,14:26,30/06/2022,N,-3
-U.K.,GMT Standard Time,1/07/2022 2:26,30/06/2022 17:26,17:26,30/06/2022,Y,0
-Germany,Central Europe Standard Time,1/07/2022 2:26,30/06/2022 18:26,18:26,30/06/2022,Y,1
-Egypt,Egypt Standard Time,1/07/2022 2:26,30/06/2022 18:26,18:26,30/06/2022,N,2
-Moscow,Russian Standard Time,1/07/2022 2:26,30/06/2022 19:26,19:26,30/06/2022,Y,3
-Iran,Iran Standard Time,1/07/2022 2:26,30/06/2022 20:56,20:56,30/06/2022,Y,3.5
-India,India Standard Time,1/07/2022 2:26,30/06/2022 21:56,21:56,30/06/2022,,5.5
-Nepal,Nepal Standard Time,1/07/2022 2:26,30/06/2022 22:11,22:11,30/06/2022,,5.75
-Bangladesh,Bangladesh Standard Time,1/07/2022 2:26,30/06/2022 22:26,22:26,30/06/2022,Y,6
-Thailand,SE Asia Standard Time,1/07/2022 2:26,30/06/2022 23:26,23:26,30/06/2022,,7
-China,China Standard Time,1/07/2022 2:26,1/07/2022 0:26,0:26,1/07/2022,,8
-Japan,Tokyo Standard Time,1/07/2022 2:26,1/07/2022 1:26,1:26,1/07/2022,,9
-South Australia,AUS Central Standard Time,1/07/2022 2:26,1/07/2022 1:56,1:56,1/07/2022,N,9.5
-NSW/VIC/QLD,AUS Eastern Standard Time,1/07/2022 2:26,1/07/2022 2:26,2:26,1/07/2022,N,10
-New Zealand,New Zealand Standard Time,1/07/2022 2:26,1/07/2022 4:26,4:26,1/07/2022,N,12
+﻿Region (DON’T USE COMMA's),RegionTimeZoneId,BaseAEST,ForeignTime,Time,Date,DST,Timezone,
+Hawaii,Hawaiian Standard Time,1/07/2022 2:26,30/06/2022 6:26,6:26,30/06/2022,,-10,
+California,Pacific Standard Time,1/07/2022 2:26,30/06/2022 9:26,9:26,30/06/2022,Y,-8,
+Mexico/Minnesota,Central Standard Time (Mexico),1/07/2022 2:26,30/06/2022 11:26,11:26,30/06/2022,Y,-6,
+Florida,Eastern Standard Time,1/07/2022 2:26,30/06/2022 12:26,12:26,30/06/2022,Y,-5,
+Rio De Janiro,E. South America Standard Time,1/07/2022 2:26,30/06/2022 13:26,13:26,30/06/2022,N,-3,(should be -4 but there's 4 TimeZones in Brazil)
+Buenos Aires,Argentina Standard Time,1/07/2022 2:26,30/06/2022 13:26,14:26,30/06/2022,N,-2,(should be -3)
+U.K.,GMT Standard Time,1/07/2022 2:26,30/06/2022 17:26,17:26,30/06/2022,Y,0,
+Germany,Central Europe Standard Time,1/07/2022 2:26,30/06/2022 18:26,18:26,30/06/2022,Y,1,
+Egypt,Egypt Standard Time,1/07/2022 2:26,30/06/2022 18:26,18:26,30/06/2022,N,2,
+Moscow,Russian Standard Time,1/07/2022 2:26,30/06/2022 19:26,19:26,30/06/2022,Y,3,
+Iran,Iran Standard Time,1/07/2022 2:26,30/06/2022 20:56,20:56,30/06/2022,Y,3.5,
+India,India Standard Time,1/07/2022 2:26,30/06/2022 21:56,21:56,30/06/2022,,5.5,
+Nepal,Nepal Standard Time,1/07/2022 2:26,30/06/2022 22:11,22:11,30/06/2022,,5.75,
+Bangladesh,Bangladesh Standard Time,1/07/2022 2:26,30/06/2022 22:26,22:26,30/06/2022,Y,6,
+Thailand,SE Asia Standard Time,1/07/2022 2:26,30/06/2022 23:26,23:26,30/06/2022,,7,
+China,China Standard Time,1/07/2022 2:26,1/07/2022 0:26,0:26,1/07/2022,,8,
+Japan,Tokyo Standard Time,1/07/2022 2:26,1/07/2022 1:26,1:26,1/07/2022,,9,
+South Australia,AUS Central Standard Time,1/07/2022 2:26,1/07/2022 1:56,1:56,1/07/2022,N,9.5,
+NSW/VIC/QLD,AUS Eastern Standard Time,1/07/2022 2:26,1/07/2022 2:26,2:26,1/07/2022,N,10,
+New Zealand,New Zealand Standard Time,1/07/2022 2:26,1/07/2022 4:26,4:26,1/07/2022,N,12,
